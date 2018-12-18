@@ -1,0 +1,22 @@
+{
+  "name": "ZLUIKit",
+  "version": "0.1.0",
+  "summary": "A short description of ZLUIKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/李哲楷/ZLUIKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "李哲楷": "lizhekai@wecash.net"
+  },
+  "source": {
+    "git": "https://github.com/李哲楷/ZLUIKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ZLUIKit/Classes/**/*"
+}

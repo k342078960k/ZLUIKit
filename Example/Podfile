@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'ZLUIKit_Example' do
+  pod 'ZLUIKit', :path => '../'
+
+  target 'ZLUIKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

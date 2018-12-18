@@ -1,0 +1,16 @@
+PODS:
+  - ZLUIKit (0.1.0)
+
+DEPENDENCIES:
+  - ZLUIKit (from `../`)
+
+EXTERNAL SOURCES:
+  ZLUIKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ZLUIKit: bded116f58a858083d71ceae30c6fb17160d9ef1
+
+PODFILE CHECKSUM: 12971e3341d2d2af42df6ace94a9c7cb82449ecb
+
+COCOAPODS: 1.5.3
