@@ -22,7 +22,7 @@ pod 'ZLUIKit'
 
 ## Author
 
-李哲楷, lizhekai@wecash.net
+李哲楷, k342078960k@gmail.com
 
 ## License
 
